@@ -1,6 +1,7 @@
 # Project Repository Description
 
-Title: Real Estate Dashboard in Power BI – End-to-End Analysis
+# Title:
+Real Estate Dashboard in Power BI – End-to-End Analysis
 
 # Description:
 
@@ -28,7 +29,7 @@ Provides transparency for agents & investors
 
 Helps firms optimize property listings
 
-Files Included:
+# Files Included:
 
 Power BI file (.pbix)
 
